@@ -8,6 +8,3 @@ append.push('Odie')
 prepend.unshift('Odie')
 removelast.pop()
 removefirst.shift()
-
-console.log(removelast.pop())
-console.log(removefirst.shift())
