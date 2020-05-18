@@ -1,5 +1,9 @@
 // Write your solution here!
-const append=[]
-const prepend=[]
-const removelast=[]
-const removelast=[]
+const append=["Milo", "Otis", "Garfield"]
+const prepend=["Milo", "Otis", "Garfield"]
+const removelast=["Milo", "Otis", "Garfield"]
+const removefirst=["Milo", "Otis", "Garfield"]
+
+append.push('')
+
+
