@@ -9,4 +9,5 @@ prepend.unshift('Odie')
 removelast.pop()
 removefirst.shift()
 
+console.log(removelast.pop())
 console.log()
